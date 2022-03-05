@@ -1,6 +1,6 @@
 name = "Zellij_jll"
 uuid = "f51964ae-9c2b-58f9-be08-f952495c30f4"
-version = "0.24.0+0"
+version = "0.25.0+0"
 
 [deps]
 JLLWrappers = "692b3bcd-3c85-4b1f-b108-f13ce0eb3210"
