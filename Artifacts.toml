@@ -1,61 +1,61 @@
 [[Zellij]]
 arch = "aarch64"
-git-tree-sha1 = "6eea52fc487e102d9abc2cb9b293ec9c88863748"
+git-tree-sha1 = "e3da2fec413aadc1d6cd88a4897b497de13a1a1a"
 os = "macos"
 
     [[Zellij.download]]
-    sha256 = "f80f73e0ad8dab31127012239b0445a650404d84009b29338e46ee4c473c91c6"
-    url = "https://github.com/JuliaBinaryWrappers/Zellij_jll.jl/releases/download/Zellij-v0.25.0+0/Zellij.v0.25.0.aarch64-apple-darwin.tar.gz"
+    sha256 = "32cb5cd66592f3625283aeb87b23478fa062e06a018344fbafa2569b37148733"
+    url = "https://github.com/JuliaBinaryWrappers/Zellij_jll.jl/releases/download/Zellij-v0.27.0+0/Zellij.v0.27.0.aarch64-apple-darwin.tar.gz"
 [[Zellij]]
 arch = "aarch64"
-git-tree-sha1 = "df2b0f09d9b9216b7a425e5b096afcc33983c36f"
+git-tree-sha1 = "e20333afb0b99a403ca686d73748f2f9c4bab6bf"
 libc = "glibc"
 os = "linux"
 
     [[Zellij.download]]
-    sha256 = "6f4eb3832ab26fe9dcad73a89470e085453f2639cb62579f227e40419171250f"
-    url = "https://github.com/JuliaBinaryWrappers/Zellij_jll.jl/releases/download/Zellij-v0.25.0+0/Zellij.v0.25.0.aarch64-linux-gnu.tar.gz"
+    sha256 = "58e1a0056db65d150d40e1f214130bde906c9a22a701c96d495c41203b3abf92"
+    url = "https://github.com/JuliaBinaryWrappers/Zellij_jll.jl/releases/download/Zellij-v0.27.0+0/Zellij.v0.27.0.aarch64-linux-gnu.tar.gz"
 [[Zellij]]
 arch = "aarch64"
-git-tree-sha1 = "07f9fdb204c1eab27be51a1d621212e3a0b39a21"
+git-tree-sha1 = "920081fcb7010a303b26bcfc82ca828c653208cb"
 libc = "musl"
 os = "linux"
 
     [[Zellij.download]]
-    sha256 = "3a4414bf032b59cead7747d8deb49884de75d6b34f3555f8cfcfebe8974ae54c"
-    url = "https://github.com/JuliaBinaryWrappers/Zellij_jll.jl/releases/download/Zellij-v0.25.0+0/Zellij.v0.25.0.aarch64-linux-musl.tar.gz"
+    sha256 = "8d687da322d683294a6cb28decc067fa0b1528765c33edcbb1212e842a27954d"
+    url = "https://github.com/JuliaBinaryWrappers/Zellij_jll.jl/releases/download/Zellij-v0.27.0+0/Zellij.v0.27.0.aarch64-linux-musl.tar.gz"
 [[Zellij]]
 arch = "i686"
-git-tree-sha1 = "4ea509f5a9804f82e9160d2c1632c8c03b82533a"
+git-tree-sha1 = "555908b7c21de283fc64627daef95df0e1841a66"
 libc = "glibc"
 os = "linux"
 
     [[Zellij.download]]
-    sha256 = "4463e937e0774fd2c82c2d29c32b1f08ad5b8d6775359a449a013b4dd18066d2"
-    url = "https://github.com/JuliaBinaryWrappers/Zellij_jll.jl/releases/download/Zellij-v0.25.0+0/Zellij.v0.25.0.i686-linux-gnu.tar.gz"
+    sha256 = "aa90587d5ee7222d53093b25a1a1727c40dbca24fadb113029f1a79e3b127f00"
+    url = "https://github.com/JuliaBinaryWrappers/Zellij_jll.jl/releases/download/Zellij-v0.27.0+0/Zellij.v0.27.0.i686-linux-gnu.tar.gz"
 [[Zellij]]
 arch = "x86_64"
-git-tree-sha1 = "a7f32f8871514ccc8f7d8df41c977cc03dc40e9c"
+git-tree-sha1 = "5cef476d2a1a295392b21f97e370de502ea47437"
 os = "macos"
 
     [[Zellij.download]]
-    sha256 = "2416918732cf932fa06664d87f48242d68228ba11d5ec0daf12949a392ae240e"
-    url = "https://github.com/JuliaBinaryWrappers/Zellij_jll.jl/releases/download/Zellij-v0.25.0+0/Zellij.v0.25.0.x86_64-apple-darwin.tar.gz"
+    sha256 = "16f732ec6f088a035da48c3d6abeeddc769a2a638266724987c7eb117d38bde0"
+    url = "https://github.com/JuliaBinaryWrappers/Zellij_jll.jl/releases/download/Zellij-v0.27.0+0/Zellij.v0.27.0.x86_64-apple-darwin.tar.gz"
 [[Zellij]]
 arch = "x86_64"
-git-tree-sha1 = "8208004149aafaef2e701815908d19b6bb0ef1d6"
+git-tree-sha1 = "378b86d1061401dd6cb7472320f31420a7a87f71"
 libc = "glibc"
 os = "linux"
 
     [[Zellij.download]]
-    sha256 = "08ad5a7703b5192901adc3567f35d094ba0b9811bc44ef1a2e5b56406b263631"
-    url = "https://github.com/JuliaBinaryWrappers/Zellij_jll.jl/releases/download/Zellij-v0.25.0+0/Zellij.v0.25.0.x86_64-linux-gnu.tar.gz"
+    sha256 = "d19718553536447fed895eed0ddb528f2552f23c55c351b1de62feffbfe52aa4"
+    url = "https://github.com/JuliaBinaryWrappers/Zellij_jll.jl/releases/download/Zellij-v0.27.0+0/Zellij.v0.27.0.x86_64-linux-gnu.tar.gz"
 [[Zellij]]
 arch = "x86_64"
-git-tree-sha1 = "a671a2b4c8002d5cb0ef84a4c4e7597f8fc8092f"
+git-tree-sha1 = "2c20ffd735f200681d50a6a20cd6075352aa4945"
 libc = "musl"
 os = "linux"
 
     [[Zellij.download]]
-    sha256 = "b1c580dc6234516eba56f1586c55090547d1b849b3852aad6f3fca7f7968d424"
-    url = "https://github.com/JuliaBinaryWrappers/Zellij_jll.jl/releases/download/Zellij-v0.25.0+0/Zellij.v0.25.0.x86_64-linux-musl.tar.gz"
+    sha256 = "376fe3bab44f1976516fa520cd8ff792afd0da08eb5ad69e09ec89db92083556"
+    url = "https://github.com/JuliaBinaryWrappers/Zellij_jll.jl/releases/download/Zellij-v0.27.0+0/Zellij.v0.27.0.x86_64-linux-musl.tar.gz"
